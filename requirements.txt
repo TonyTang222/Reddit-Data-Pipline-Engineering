@@ -1,0 +1,6 @@
+apache-airflow==2.7.2
+pandas==2.0.3
+numpy==1.26.4
+praw==7.8.1
+requests
+s3fs
